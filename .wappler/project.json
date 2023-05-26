@@ -25,10 +25,12 @@
   "runtime": "capacitor",
   "projectType": "app",
   "capacitor": {
-    "platform": "android",
+    "platform": "web",
     "capacitor": {
       "checked": true
     },
-    "target": ""
+    "target": "",
+    "device": null,
+    "deviceId": null
   }
 }
